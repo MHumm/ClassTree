@@ -1,0 +1,7 @@
+This software has been written by:
+
+Markus Humm
+
+Original GitHub Repository is here:
+
+https://github.com/MHumm/ClassTree
