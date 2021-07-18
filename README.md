@@ -1,5 +1,10 @@
 # ClassTree
 Small application for generating class trees.
+The minimum supported Delphi version is 10.3.3 due to the use of
+inline variables. Since we want to move forward we will not accept
+requests to remove the use of these inline variables. If you need this
+utility for an older Delphi version you may make the required code 
+changes yourself, they're not hard.
 
 How to use?
 
