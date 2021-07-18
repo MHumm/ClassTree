@@ -20,7 +20,10 @@ How to use?
    
 Here's how the outputs look like when being applied on the unaltered program:   
 
+This is how it looks after generating the class tree:
 ![Class hierarchy shown in a TTreeview](/Documentation/ClassTreeGenerator_CompleteTree.PNG "Class hierarchy shown in TTreeview")
+
+This is how it looks after selecting the first node of the class tree and exporting this into textual form:
 ![Class hierarchy exported into text form](/Documentation/ClassTreeGenerator_TextExport.PNG "Class hierarchy exported into text form")
    
 The license for this project is Apache 2.0, see file LICENSE.
