@@ -1,0 +1,12 @@
+backup
+__history
+__recovery
+**/Win32/
+**/Win64/
+
+*.local
+*.identcache
+*.dsk
+*.~*
+*.stat
+Thumbs.db

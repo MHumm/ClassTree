@@ -23,21 +23,29 @@ object Form1: TForm1
     List = True
     AllowTextButtons = True
     TabOrder = 0
-    object ToolButton1: TToolButton
+    object tb_Generate: TToolButton
       Left = 0
       Top = 0
       Caption = '&Generate'
       ImageIndex = 0
       Style = tbsTextButton
-      OnClick = ToolButton1Click
+      OnClick = tb_GenerateClick
     end
-    object ToolButton2: TToolButton
+    object tb_Export: TToolButton
       Left = 63
       Top = 0
       Caption = '&Export selected node'
       ImageIndex = 1
       Style = tbsTextButton
-      OnClick = ToolButton2Click
+      OnClick = tb_ExportClick
+    end
+    object tb_CopyToClipboard: TToolButton
+      Left = 189
+      Top = 0
+      Caption = '&Copy to clipboard'
+      ImageIndex = 2
+      Style = tbsTextButton
+      OnClick = tb_CopyToClipboardClick
     end
   end
   object pc_Main: TPageControl

@@ -15,7 +15,12 @@ How to use?
    a text only representation (used font here is Courier New, as it 
    contains those line characters and is monospaced).
    
-5. You may select the text in the memo (Ctrl-A selects all) and 
-   copy it via Ctrl-C.
+5. You may select text in the memo (Ctrl-A selects all) and 
+   copy it via Ctrl-C or use the "Copy to clipboard" button.
+   
+Here's how the outputs look like when being applied on the unaltered program:   
+
+![Class hierarchy shown in a TTreeview](/Documentation/ClassTreeGenerator_CompleteTree.PNG "Class hierarchy shown in TTreeview")
+![Class hierarchy exported into text form](/Documentation/ClassTreeGenerator_TextExport.PNG "Class hierarchy exported into text form")
    
 The license for this project is Apache 2.0, see file LICENSE.
